@@ -1,0 +1,8 @@
+
+path: C:\Users\gozeb\.cache\kagglehub\datasets\bogdanliutikov\russian-road-signs-segmentation-dataset\versions\1/dataset
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: road sign
